@@ -1,2 +1,2 @@
 # OnlineSearch
-A basic application that can help people find the best product Online
+A basic application that can help people find the best products Online
